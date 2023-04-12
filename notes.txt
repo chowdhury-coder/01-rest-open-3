@@ -7,4 +7,4 @@ Key Questions:
 - How do verbs and nouns play a part in our RESTful implementation of API routes?
 - How do we structure our express routes in a RESTful way? In other words, where does the verb go? Where does the noun go?
 - What are query strings? How are they different from other parameters we've seen before?
-- 
+- How can we use Sequelize to filter data by the query strings?
